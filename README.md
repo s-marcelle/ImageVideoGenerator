@@ -22,7 +22,7 @@ This project is a Gradio app that generates videos from audio and images, with o
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/image-video-generator.git
+   git clone https://github.com/s-marcelle/ImageVideoGenerator.git
    cd image-video-generator
    ```
 
