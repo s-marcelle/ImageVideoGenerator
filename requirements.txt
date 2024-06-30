@@ -1,0 +1,6 @@
+gradio
+openai
+Pillow
+requests
+yt-dlp
+ffmpeg-python
